@@ -1,0 +1,5 @@
+fbprophet==0.7.1
+plotly==4.14.3
+pystan==2.19.1.1
+streamlit==0.80.0
+yfinance==0.1.59
