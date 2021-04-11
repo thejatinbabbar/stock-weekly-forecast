@@ -1,10 +1,10 @@
 mkdir -p ~/.streamlit/
 
-primColor="#F63366"
-backColor="#FFFFFF"
-secColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+primColor="'#F63366'"
+backColor="'#FFFFFF'"
+secColor="'#F0F2F6'"
+textColor="'#262730'"
+font="'sans serif'"
 
 echo "\
 [server]\n\
